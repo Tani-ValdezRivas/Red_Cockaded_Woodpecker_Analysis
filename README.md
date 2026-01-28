@@ -1,0 +1,2 @@
+# Red_Cockaded_Woodpecker_Analysis
+This project was conducted in collaboration with the U.S. Forest Service to examine cavity and habitat preference among Red Cockaded Woodpeckers in the Croatan National Forest. Using ArcGIS Pro and Excel, I used historical and collected data to find overall habitat and cavity preference of the species and used it to create a habitat suitability model to aid resource managers in finding new cavitites. Due to the sensitivity and confidentiality of the project, only the final product can be uplodaed into the repository. 
