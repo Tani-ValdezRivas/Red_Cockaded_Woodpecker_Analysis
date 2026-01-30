@@ -10,7 +10,7 @@ Historical records and field-collected data were analyzed using ArcGIS Pro and M
 Due to the sensitive and confidential nature of Red-cockaded Woodpecker location data, raw and intermediate datasets are not included in this repository. Only final model outputs and supporting documentation are provided.
 
 # Tools Used:
-ArcGIS Pro
-ArcGIS Field Maps
-ArcGIS Survey123
-Microsoft Excel
+- ArcGIS Pro
+- ArcGIS Field Maps
+- ArcGIS Survey123
+- Microsoft Excel
