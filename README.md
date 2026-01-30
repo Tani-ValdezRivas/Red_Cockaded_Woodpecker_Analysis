@@ -1,4 +1,16 @@
-# Red_Cockaded_Woodpecker_Analysis
-This project was conducted in collaboration with the U.S. Forest Service to examine cavity and habitat preference among Red Cockaded Woodpeckers in the Croatan National Forest located in North Carolina. From January to July of 2022, site visits were made to historical and current nest cavities. Using ArcGIS Field Maps and Survey 123, data was collected on activity level, tree species type, tree diameter at breast heigh, cavity height, and cavity aspect.
+# Project Overview:
+This project was conducted in collaboration with the U.S. Forest Service to examine cavity characteristics and habitat preferences of Red-cockaded Woodpeckers (Dryobates borealis) in the Croatan National Forest, North Carolina.
 
-Using ArcGIS Pro and Excel, I used historical and collected data to find overall habitat and cavity preference of the species and used it to create a habitat suitability model to aid resource managers in finding new cavitites. Due to the sensitivity and confidentiality of the project, only the final product can be uplodaed into the repository. 
+From January to July 2022, site visits were conducted at both historical and active nest cavities. Data were collected using ArcGIS Field Maps and Survey123, including cavity activity status, tree species, diameter at breast height (DBH), cavity height, and cavity aspect.
+
+# Methods:
+Historical records and field-collected data were analyzed using ArcGIS Pro and Microsoft Excel to identify patterns in cavity use and habitat preference. These variables were incorporated into a habitat suitability model designed to assist resource managers in identifying potential locations for future cavity installation.
+
+# Data Availability:
+Due to the sensitive and confidential nature of Red-cockaded Woodpecker location data, raw and intermediate datasets are not included in this repository. Only final model outputs and supporting documentation are provided.
+
+# Tools Used:
+ArcGIS Pro
+ArcGIS Field Maps
+ArcGIS Survey123
+Microsoft Excel
